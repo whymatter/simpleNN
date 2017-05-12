@@ -85,7 +85,7 @@ def myTraining():
     newError = 0
     lowestRate = 0.01
     rate = lowestRate
-    wantedFactor = 10000
+    wantedFactor = 1000
     mvAvgValuesCount = 50
     mvAvgValues = []
 
